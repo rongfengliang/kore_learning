@@ -6,4 +6,5 @@ cmake-build-release
 CMakelists.txt
 hello.so
 assets
+access.log
 build/**
