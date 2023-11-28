@@ -1,0 +1,9 @@
+.objs
+.idea
+cmake-build-debug
+cmake-build-release
+.DS_Store
+CMakelists.txt
+hello.so
+assets
+build/**

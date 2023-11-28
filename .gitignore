@@ -1,0 +1,12 @@
+*.o
+.flavor
+.objs
+hello.so
+assets.h
+cert
+build
+assets
+.DS_Store
+cmake-build-debug
+cmake-build-release
+.idea
